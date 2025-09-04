@@ -31,7 +31,7 @@ This project allows multiple users to share their live location and see others' 
 
 | Multiple Users Tracking | Real-Time Updates |
 |------------------------|------------------|
-| ![Screenshot 1](./screenshots/map1.png) | ![Screenshot 2](./screenshots/map2.png) | ![Screenshot 2](./screenshots/terminal.png) |
+| ![Map 1](https://github.com/user-attachments/assets/4e1e9bac-c4c5-45dd-ba73-b4926d7c6b4d) | ![Map 2](https://github.com/user-attachments/assets/b0fc2fba-4e27-45af-9915-721a888ec981) | ![Terminal 2](https://github.com/user-attachments/assets/9e5533f8-60ce-47f4-9fec-77b5c8d0bcc4) |
 
 
 ---
